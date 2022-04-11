@@ -15,6 +15,6 @@
           console.log(`string ${userId.toLowerCase()}`);
         }
     };
-    greeting("Camilo","L");
-    greeting("Guzmán","XL");
+    greeting("Camilo", 'M');
+    greeting("Guzmán", 'XL');
 })();
